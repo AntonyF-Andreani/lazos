@@ -1,0 +1,105 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Steps /> should render 1`] = `
+<DocumentFragment>
+  <div
+    class="section"
+  >
+    <div
+      class="MuiGrid-root container css-vj1n65-MuiGrid-root"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body1 sectionTitle css-12hl0xw-MuiTypography-root"
+      >
+        test
+      </p>
+      <div
+        class="stepsMiscellaneous"
+      />
+      <div
+        class="MuiGrid-root stepsContainer css-vj1n65-MuiGrid-root"
+      >
+        <div
+          class="MuiGrid-root step css-vj1n65-MuiGrid-root"
+          data-key="0"
+        >
+          <div
+            class="flipCard"
+            data-key="0"
+            data-testid="flipCard0"
+          >
+            <div
+              class="flipCardInner"
+            >
+              <div
+                class="flipCardFront"
+              >
+                <div
+                  style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                >
+                  <img
+                    alt="Avatar"
+                    class="stepImage"
+                    data-key="0"
+                    data-nimg="fill"
+                    decoding="async"
+                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </div>
+              </div>
+              <div
+                class="flipCardBack"
+              >
+                <div
+                  style="display: block; overflow: hidden; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; margin: 0px;"
+                >
+                  <img
+                    alt="Avatar-second"
+                    class="stepImage"
+                    data-key="0"
+                    data-nimg="fill"
+                    decoding="async"
+                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </div>
+              </div>
+            </div>
+          </div>
+          <p
+            class="MuiTypography-root MuiTypography-body1 stepTitle css-12hl0xw-MuiTypography-root"
+            data-key="0"
+          >
+            title-test
+          </p>
+          <p
+            class="MuiTypography-root MuiTypography-body1 stepSubtitle css-12hl0xw-MuiTypography-root"
+          >
+            description-test
+          </p>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root css-vj1n65-MuiGrid-root"
+      >
+        <p
+          class="MuiTypography-root MuiTypography-body1 termsAndConditions css-12hl0xw-MuiTypography-root"
+        >
+          Conocé los 
+          <a
+            href="/test.pdf"
+            rel="noreferrer"
+            target="_blank"
+          >
+            términos y condiciones
+          </a>
+           para acceder a la Plataforma de Gestión Logística de Donaciones.
+        </p>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,168 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Logos /> should render without crash 1`] = `
+<DocumentFragment>
+  <section
+    class="MuiGrid-root root css-vj1n65-MuiGrid-root"
+  >
+    <h2
+      class="MuiTypography-root MuiTypography-h2 title css-oouzf9-MuiTypography-root"
+    >
+      test
+    </h2>
+    <div
+      class="swiper-container swiper-container-initialized swiper-container-horizontal container"
+    >
+      <div
+        class="swiper-wrapper"
+        style="transition-duration: 0ms; transform: translate3d(NaNpx, 0px, 0px);"
+      >
+        <div
+          class="swiper-slide swiper-slide-duplicate slide"
+          data-swiper-slide-index="0"
+        >
+          <span
+            class=" lazy-load-image-background blur"
+            style="display: inline-block;"
+          >
+            <img
+              alt="test"
+              class="image selectDisable"
+              data-isactive="false"
+              src="image-logo"
+            />
+          </span>
+        </div>
+        <div
+          class="swiper-slide swiper-slide-duplicate slide"
+          data-swiper-slide-index="1"
+        >
+          <span
+            class=" lazy-load-image-background blur"
+            style="display: inline-block;"
+          >
+            <img
+              alt="test"
+              class="image selectDisable"
+              data-isactive="false"
+              src="image-logo"
+            />
+          </span>
+        </div>
+        <div
+          class="swiper-slide swiper-slide-duplicate slide"
+          data-swiper-slide-index="2"
+        >
+          <span
+            class=" lazy-load-image-background blur"
+            style="display: inline-block;"
+          >
+            <img
+              alt="test"
+              class="image selectDisable"
+              data-isactive="false"
+              src="image-logo"
+            />
+          </span>
+        </div>
+        <div
+          class="swiper-slide slide"
+          data-swiper-slide-index="0"
+        >
+          <span
+            class=" lazy-load-image-background blur"
+            style="display: inline-block;"
+          >
+            <img
+              alt="test"
+              class="image selectDisable"
+              data-isactive="false"
+              src="image-logo"
+            />
+          </span>
+        </div>
+        <div
+          class="swiper-slide slide"
+          data-swiper-slide-index="1"
+        >
+          <span
+            class=" lazy-load-image-background blur"
+            style="display: inline-block;"
+          >
+            <img
+              alt="test"
+              class="image selectDisable"
+              data-isactive="false"
+              src="image-logo"
+            />
+          </span>
+        </div>
+        <div
+          class="swiper-slide slide"
+          data-swiper-slide-index="2"
+        >
+          <span
+            class=" lazy-load-image-background blur"
+            style="display: inline-block;"
+          >
+            <img
+              alt="test"
+              class="image selectDisable"
+              data-isactive="false"
+              src="image-logo"
+            />
+          </span>
+        </div>
+        <div
+          class="swiper-slide swiper-slide-duplicate slide"
+          data-swiper-slide-index="0"
+        >
+          <span
+            class=" lazy-load-image-background blur"
+            style="display: inline-block;"
+          >
+            <img
+              alt="test"
+              class="image selectDisable"
+              data-isactive="false"
+              src="image-logo"
+            />
+          </span>
+        </div>
+        <div
+          class="swiper-slide swiper-slide-duplicate slide"
+          data-swiper-slide-index="1"
+        >
+          <span
+            class=" lazy-load-image-background blur"
+            style="display: inline-block;"
+          >
+            <img
+              alt="test"
+              class="image selectDisable"
+              data-isactive="false"
+              src="image-logo"
+            />
+          </span>
+        </div>
+        <div
+          class="swiper-slide swiper-slide-duplicate slide"
+          data-swiper-slide-index="2"
+        >
+          <span
+            class=" lazy-load-image-background blur"
+            style="display: inline-block;"
+          >
+            <img
+              alt="test"
+              class="image selectDisable"
+              data-isactive="false"
+              src="image-logo"
+            />
+          </span>
+        </div>
+      </div>
+    </div>
+  </section>
+</DocumentFragment>
+`;

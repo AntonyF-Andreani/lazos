@@ -1,0 +1,23 @@
+.appBar {
+  background-color: transparent;
+  box-shadow: none;
+  transform: translateY(0);
+  top: 0;
+  position: fixed;
+  color: white;
+  transition: background-color 0.35s ease-in-out;
+}
+
+.appBarLight {
+  background-color: white;
+  box-shadow: 0 1px 8px 1px rgb(0 0 0 / 12%);
+  transform: translateY(65px);
+  transition: transform 0.5s ease-in;
+  top: -65px;
+  color: gray;
+}
+
+.logoContainer {
+  flex-grow: 1;
+  text-align: center;
+}

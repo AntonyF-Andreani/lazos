@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<InfoSection /> should render without crash 1`] = `
+<DocumentFragment>
+  <section
+    class="MuiBox-root css-0"
+  >
+    <div
+      class="containerInfoSection MuiBox-root css-0"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+      >
+        description
+      </p>
+      <a
+        class="root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-disableElevation MuiButtonBase-root  css-bb99s9-MuiButtonBase-root-MuiButton-root"
+        href="url"
+        tabindex="0"
+      >
+        <h6
+          class="MuiTypography-root MuiTypography-subtitle2 css-ati914-MuiTypography-root"
+        >
+          text
+        </h6>
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </a>
+    </div>
+  </section>
+</DocumentFragment>
+`;

@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "clinyong.vscode-css-modules",
+        "redhat.vscode-yaml",
+        "dbaeumer.vscode-eslint",
+        "mhutchie.git-graph",
+        "burkeholland.simple-react-snippets"
+    ]
+}

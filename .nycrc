@@ -1,0 +1,7 @@
+{
+  "check-coverage": true,
+  "include": ["src/pages/*.tsx"],
+  "sourceMap": true,
+  "instrument": true,
+  "exclude": [ "node_modules", "__test__"]
+}

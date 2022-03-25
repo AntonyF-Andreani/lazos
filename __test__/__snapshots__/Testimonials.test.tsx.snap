@@ -1,0 +1,183 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Testimonials /> should render without crash 1`] = `
+<DocumentFragment>
+  <section
+    class="MuiGrid-root root css-vj1n65-MuiGrid-root"
+  >
+    <div
+      class="mainBanner MuiBox-root css-0"
+    >
+      <span
+        class=" lazy-load-image-background blur"
+        style="display: inline-block;"
+      >
+        <img
+          alt="test"
+          class="image"
+          src="background-image"
+        />
+      </span>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container container css-11lq3yg-MuiGrid-root"
+    >
+      <div
+        class="comentarioContainer MuiBox-root css-0"
+      >
+        <h2
+          class="MuiTypography-root MuiTypography-h2 title css-1sra7t5-MuiTypography-root"
+        >
+          Title test
+        </h2>
+        <div
+          class="MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root"
+        >
+          <div
+            class="swiper-container swiper-container-initialized swiper-container-horizontal swiperContainer"
+          >
+            <div
+              class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"
+            />
+            <div
+              class="swiper-wrapper"
+              style="transition-duration: 0ms; transform: translate3d(NaNpx, 0px, 0px);"
+            >
+              <div
+                class="swiper-slide swiper-slide-duplicate slide"
+                data-swiper-slide-index="2"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-item comentario css-13i4rnv-MuiGrid-root"
+                >
+                  <h4
+                    class="MuiTypography-root MuiTypography-h4 comentarioText css-i0231a-MuiTypography-root"
+                  >
+                    <p>
+                      comentario test
+                    </p>
+                  </h4>
+                </div>
+                <h2
+                  class="MuiTypography-root MuiTypography-h2 autor css-1sra7t5-MuiTypography-root"
+                >
+                  autor test
+                </h2>
+                <h2
+                  class="MuiTypography-root MuiTypography-h2 lugar css-1sra7t5-MuiTypography-root"
+                >
+                  test
+                </h2>
+              </div>
+              <div
+                class="swiper-slide slide"
+                data-swiper-slide-index="0"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-item comentario css-13i4rnv-MuiGrid-root"
+                >
+                  <h4
+                    class="MuiTypography-root MuiTypography-h4 comentarioText css-i0231a-MuiTypography-root"
+                  >
+                    <p>
+                      comentario test
+                    </p>
+                  </h4>
+                </div>
+                <h2
+                  class="MuiTypography-root MuiTypography-h2 autor css-1sra7t5-MuiTypography-root"
+                >
+                  autor test
+                </h2>
+                <h2
+                  class="MuiTypography-root MuiTypography-h2 lugar css-1sra7t5-MuiTypography-root"
+                >
+                  test
+                </h2>
+              </div>
+              <div
+                class="swiper-slide slide"
+                data-swiper-slide-index="1"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-item comentario css-13i4rnv-MuiGrid-root"
+                >
+                  <h4
+                    class="MuiTypography-root MuiTypography-h4 comentarioText css-i0231a-MuiTypography-root"
+                  >
+                    <p>
+                      comentario test
+                    </p>
+                  </h4>
+                </div>
+                <h2
+                  class="MuiTypography-root MuiTypography-h2 autor css-1sra7t5-MuiTypography-root"
+                >
+                  autor test
+                </h2>
+                <h2
+                  class="MuiTypography-root MuiTypography-h2 lugar css-1sra7t5-MuiTypography-root"
+                >
+                  test
+                </h2>
+              </div>
+              <div
+                class="swiper-slide slide"
+                data-swiper-slide-index="2"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-item comentario css-13i4rnv-MuiGrid-root"
+                >
+                  <h4
+                    class="MuiTypography-root MuiTypography-h4 comentarioText css-i0231a-MuiTypography-root"
+                  >
+                    <p>
+                      comentario test
+                    </p>
+                  </h4>
+                </div>
+                <h2
+                  class="MuiTypography-root MuiTypography-h2 autor css-1sra7t5-MuiTypography-root"
+                >
+                  autor test
+                </h2>
+                <h2
+                  class="MuiTypography-root MuiTypography-h2 lugar css-1sra7t5-MuiTypography-root"
+                >
+                  test
+                </h2>
+              </div>
+              <div
+                class="swiper-slide swiper-slide-duplicate slide"
+                data-swiper-slide-index="0"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-item comentario css-13i4rnv-MuiGrid-root"
+                >
+                  <h4
+                    class="MuiTypography-root MuiTypography-h4 comentarioText css-i0231a-MuiTypography-root"
+                  >
+                    <p>
+                      comentario test
+                    </p>
+                  </h4>
+                </div>
+                <h2
+                  class="MuiTypography-root MuiTypography-h2 autor css-1sra7t5-MuiTypography-root"
+                >
+                  autor test
+                </h2>
+                <h2
+                  class="MuiTypography-root MuiTypography-h2 lugar css-1sra7t5-MuiTypography-root"
+                >
+                  test
+                </h2>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</DocumentFragment>
+`;

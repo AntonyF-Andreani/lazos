@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SidebarItem /> should render 1`] = `
+<DocumentFragment>
+  <a
+    class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineNone css-uxrmkj-MuiTypography-root-MuiLink-root"
+    data-testid="sidebar-item-url"
+  >
+    <li
+      class="MuiListItem-root MuiListItem-gutters MuiListItem-padding listItem css-mxv0kx-MuiListItem-root"
+    />
+  </a>
+</DocumentFragment>
+`;

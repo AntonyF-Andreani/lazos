@@ -1,0 +1,105 @@
+.root {
+  padding: 0 35px;
+  width: auto;
+  margin: 0 auto;
+
+  @media (min-width: 576px) {
+    max-width: 540px;
+  }
+
+  @media (min-width: 768px) {
+    max-width: 720px;
+  }
+
+  @media (min-width: 992px) {
+    max-width: 960px;
+  }
+
+  @media (min-width: 1200px) {
+    max-width: 1140px;
+  }
+
+  @media (min-width: 1400px) {
+    max-width: 1210px;
+  }
+}
+
+.label {
+  color: #777;
+  text-decoration: none;
+  background-color: transparent;
+  line-height: 26px;
+  font-size: 0.9em;
+
+  & a {
+    color: #777;
+    text-decoration: none;
+    outline: none;
+    cursor: pointer;
+
+    &:hover {
+      color: #d71920;
+      text-decoration: underline;
+    }
+
+    &:focus,
+    &:active {
+      color: #ccc;
+    }
+  }
+}
+
+.datos {
+  padding-bottom: 1rem !important;
+  padding-top: 1rem !important;
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  box-sizing: border-box;
+  display: block;
+
+  @media (min-width: 768px) {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+
+  @media (min-width: 992px) {
+    flex: 0 0 25%;
+    max-width: 25%;
+  }
+}
+
+.logos {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+
+  & :first-child {
+    text-align: left;
+  }
+
+  & :last-child {
+    text-align: right;
+  }
+
+  & span {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+
+.icon {
+  font-size: 1.3em;
+  color: #d71920;
+  margin-right: 10px;
+}

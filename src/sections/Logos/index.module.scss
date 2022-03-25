@@ -1,0 +1,66 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  overflow: hidden;
+  padding: 15px;
+  max-width: 1200px;
+  margin: auto;
+
+  @media only screen and (max-width: 768px) {
+    padding: 0;
+  }
+}
+
+.title {
+  letter-spacing: -0.05em;
+  font-weight: 700;
+  font-size: 2.3em;
+  color: #212529;
+  margin: 20px;
+  margin-bottom: 40px;
+
+  @media only screen and (max-width: 768px) {
+    font-size: 2em;
+  }
+
+  @media only screen and (max-width: 425px) {
+    margin-bottom: 20px;
+    font-size: 1.6em;
+  }
+
+  @media only screen and (max-width: 375px) {
+    font-size: 1.2em;
+  }
+}
+
+.slide {
+  width: 390px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.image {
+  object-fit: cover;
+  object-position: center;
+  height: 80px;
+  background: transparent;
+  background-color: transparent;
+
+  &[data-isactive="false"] {
+    opacity: 0.5;
+  }
+}
+
+.selectDisable {
+  user-select: none;
+}
+
+.container {
+  margin: 15px;
+  width: 100%;
+}

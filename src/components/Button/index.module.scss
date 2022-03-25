@@ -1,0 +1,38 @@
+.root {
+  border-radius: 35px;
+  border: 1px solid transparent;
+  color: #fff;
+  letter-spacing: 0;
+  text-align: center;
+  vertical-align: middle;
+  opacity: 1;
+  text-transform: none;
+  padding: 1rem 3rem;
+  font-size: 1em;
+  font-weight: 700;
+  line-height: 1.5;
+
+  &:disabled {
+    background: #ededed 0% 0% no-repeat padding-box;
+    border-radius: 25px;
+    opacity: 1;
+  }
+}
+
+.contained {
+  background-color: #d71920;
+  border-color: #d71920 #d71920 #069;
+
+  &:hover {
+    background-color: #b6040b;
+    border-color: #e6e5e5 #e6e5e5 #ccc;
+  }
+
+  &:active,
+  &:focus {
+    background-color: #b6040b;
+    border-color: #e6e5e5 #e6e5e5 #ccc;
+    background-image: none;
+    box-shadow: none;
+  }
+}

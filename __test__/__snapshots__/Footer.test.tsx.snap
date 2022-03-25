@@ -1,0 +1,199 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Footer /> should render without crash 1`] = `
+<DocumentFragment>
+  <div>
+    <hr
+      class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+    />
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column root css-1vpwcmr-MuiGrid-root"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-item datos css-1f064cs-MuiGrid-root"
+      >
+        <ul
+          class="MuiList-root MuiList-padding wrapper css-h4y409-MuiList-root"
+        >
+          <li
+            class="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-1p823my-MuiListItem-root"
+          >
+            <span
+              class="MuiTypography-root MuiTypography-h6 label css-6zgmsr-MuiTypography-root"
+            >
+              <a
+                href="https://forms.gle/qffkPw5A57u3DKK77"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Formulario de inscripción y traslado
+              </a>
+            </span>
+          </li>
+          <li
+            class="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-1p823my-MuiListItem-root"
+          >
+            <span
+              class="MuiTypography-root MuiTypography-h6 label css-6zgmsr-MuiTypography-root"
+            >
+              <a
+                href="https://forms.gle/oWLgZmRJDo8reMBC9"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Formulario de nuevo traslado
+              </a>
+            </span>
+          </li>
+          <li
+            class="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-1p823my-MuiListItem-root"
+          >
+            <span
+              class="MuiTypography-root MuiTypography-h6 label css-6zgmsr-MuiTypography-root"
+            >
+              <a
+                href="https://andreanionline.com/hacer-un-envio"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Andreani Online
+              </a>
+            </span>
+          </li>
+        </ul>
+        <ul
+          class="MuiList-root MuiList-padding wrapper css-h4y409-MuiList-root"
+        >
+          <li
+            class="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-1p823my-MuiListItem-root"
+          >
+            <span
+              class="MuiTypography-root MuiTypography-h6 label css-6zgmsr-MuiTypography-root"
+            >
+              <a
+                href="#"
+                target="_blank"
+                title="Descarga PDF"
+              >
+                Términos y condiciones
+              </a>
+            </span>
+          </li>
+          <li
+            class="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-1p823my-MuiListItem-root"
+          >
+            <span
+              class="MuiTypography-root MuiTypography-h6 label css-6zgmsr-MuiTypography-root"
+            >
+              <a
+                href="#"
+                target="_blank"
+                title="Simil a sitio web de Andreani?"
+              >
+                Politica de privacidad
+              </a>
+            </span>
+          </li>
+        </ul>
+        <ul
+          class="MuiList-root MuiList-padding wrapper css-h4y409-MuiList-root"
+        >
+          <li
+            class="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-1p823my-MuiListItem-root"
+          >
+            <svg
+              aria-hidden="true"
+              class="svg-inline--fa fa-dot-circle fa-w-16 icon"
+              data-icon="dot-circle"
+              data-prefix="fal"
+              focusable="false"
+              role="img"
+              viewBox="0 0 512 512"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M256 8C119.033 8 8 119.033 8 256s111.033 248 248 248 248-111.033 248-248S392.967 8 256 8zm0 464c-118.663 0-216-96.055-216-216 0-118.663 96.055-216 216-216 118.663 0 216 96.055 216 216 0 118.663-96.055 216-216 216zm0-296c-44.183 0-80 35.817-80 80s35.817 80 80 80 80-35.817 80-80-35.817-80-80-80zm0 128c-26.467 0-48-21.533-48-48s21.533-48 48-48 48 21.533 48 48-21.533 48-48 48z"
+                fill="currentColor"
+              />
+            </svg>
+            <span
+              class="MuiTypography-root MuiTypography-h6 label css-6zgmsr-MuiTypography-root"
+            >
+              Av. Don Pedro de Mendoza 1973, CABA
+            </span>
+          </li>
+          <li
+            class="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-1p823my-MuiListItem-root"
+          >
+            <svg
+              aria-hidden="true"
+              class="svg-inline--fa fa-envelope fa-w-16 icon"
+              data-icon="envelope"
+              data-prefix="fal"
+              focusable="false"
+              role="img"
+              viewBox="0 0 512 512"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M464 64H48C21.5 64 0 85.5 0 112v288c0 26.5 21.5 48 48 48h416c26.5 0 48-21.5 48-48V112c0-26.5-21.5-48-48-48zM48 96h416c8.8 0 16 7.2 16 16v41.4c-21.9 18.5-53.2 44-150.6 121.3-16.9 13.4-50.2 45.7-73.4 45.3-23.2.4-56.6-31.9-73.4-45.3C85.2 197.4 53.9 171.9 32 153.4V112c0-8.8 7.2-16 16-16zm416 320H48c-8.8 0-16-7.2-16-16V195c22.8 18.7 58.8 47.6 130.7 104.7 20.5 16.4 56.7 52.5 93.3 52.3 36.4.3 72.3-35.5 93.3-52.3 71.9-57.1 107.9-86 130.7-104.7v205c0 8.8-7.2 16-16 16z"
+                fill="currentColor"
+              />
+            </svg>
+            <span
+              class="MuiTypography-root MuiTypography-h6 label css-6zgmsr-MuiTypography-root"
+            >
+              <a
+                href="mailto:lazos@fundacionandreani.org.ar"
+                title="Falta tramitar"
+              >
+                 lazos@fundacionandreani.org.ar
+              </a>
+            </span>
+          </li>
+        </ul>
+        <ul
+          class="MuiList-root MuiList-padding wrapper css-h4y409-MuiList-root"
+        >
+          <li
+            class="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-1p823my-MuiListItem-root"
+          >
+            <span
+              class="MuiTypography-root MuiTypography-h6 label css-6zgmsr-MuiTypography-root"
+            >
+              Copyright © 2021 Fundación Andreani. Todos los derechos reservados
+            </span>
+          </li>
+        </ul>
+      </div>
+      <hr
+        class="MuiDivider-root MuiDivider-middle css-ft4jij-MuiDivider-root"
+      />
+      <div
+        class="MuiGrid-root logos css-vj1n65-MuiGrid-root"
+      >
+        <span
+          class=" lazy-load-image-background blur"
+          style="display: inline-block;"
+        >
+          <img
+            alt="fundacion"
+            class="logoFundacion"
+            src="fundacion"
+          />
+        </span>
+        <span
+          class=" lazy-load-image-background blur"
+          style="display: inline-block;"
+        >
+          <img
+            alt="andreani"
+            class="logoAndreani"
+            src="andreani"
+          />
+        </span>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
