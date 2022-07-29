@@ -10,6 +10,7 @@ import MainBanner from "sections/MainBanner";
 import Steps from "sections/Steps";
 import InfoSection from "sections/Info";
 import Testimonials from "sections/Testimonials";
+import { logger } from "utils";
 
 export const getStaticProps: GetStaticProps<Content> = async () => {
   const { data } = await CmsService.getContentFetch();
@@ -19,6 +20,8 @@ export const getStaticProps: GetStaticProps<Content> = async () => {
       LazoscontentItem: { content },
     },
   } = data;
+
+  logger("Home Generated")
 
   return {
     props: content,

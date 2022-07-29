@@ -65,3 +65,20 @@ export const prepareViewport = (mediaQuery: string) => {
     };
   });
 };
+
+
+/**
+ * Function to log with current time
+ * @param message Message to log
+ *
+ * @example
+ * logger("Home generated");
+ * //"15/11/2021 10:34:06 - Home generated"
+ */
+ export const logger = (message: string) => {
+  const date = new Date().toLocaleString("es", {
+    timeZone: "America/Argentina/Buenos_Aires",
+  });
+
+  console.log(`${date} - ${message}`);
+};

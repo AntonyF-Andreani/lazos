@@ -27,7 +27,7 @@ class CmsServiceClass {
   getContentFetch = async () =>
     this.client.post<{ query: string }, AxiosResponse<CmsResponse<Content>>>("", {
       query: `{
-          LazoscontentItem(id: "lazos/contenido"){
+          LazoscontentItem(id: "lazos/instituciones"){
             content {
               banner_image{
                 alt
