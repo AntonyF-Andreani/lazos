@@ -21,7 +21,7 @@ export const getStaticProps: GetStaticProps<Content> = async () => {
     },
   } = data;
 
-  logger("Home Generated")
+  logger("Home Generated");
 
   return {
     props: content,
