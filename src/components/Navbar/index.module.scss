@@ -20,4 +20,9 @@
 .logoContainer {
   flex-grow: 1;
   text-align: center;
+
+  & img {
+    object-fit: contain;
+    object-position: center;
+  }
 }
