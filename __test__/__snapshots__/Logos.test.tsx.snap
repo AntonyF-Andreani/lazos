@@ -23,7 +23,7 @@ exports[`<Logos /> should render without crash 1`] = `
         >
           <span
             class=" lazy-load-image-background blur"
-            style="display: inline-block;"
+            style="color: transparent; display: inline-block;"
           >
             <img
               alt="test"
@@ -39,7 +39,7 @@ exports[`<Logos /> should render without crash 1`] = `
         >
           <span
             class=" lazy-load-image-background blur"
-            style="display: inline-block;"
+            style="color: transparent; display: inline-block;"
           >
             <img
               alt="test"
@@ -55,7 +55,7 @@ exports[`<Logos /> should render without crash 1`] = `
         >
           <span
             class=" lazy-load-image-background blur"
-            style="display: inline-block;"
+            style="color: transparent; display: inline-block;"
           >
             <img
               alt="test"
@@ -71,7 +71,7 @@ exports[`<Logos /> should render without crash 1`] = `
         >
           <span
             class=" lazy-load-image-background blur"
-            style="display: inline-block;"
+            style="color: transparent; display: inline-block;"
           >
             <img
               alt="test"
@@ -87,7 +87,7 @@ exports[`<Logos /> should render without crash 1`] = `
         >
           <span
             class=" lazy-load-image-background blur"
-            style="display: inline-block;"
+            style="color: transparent; display: inline-block;"
           >
             <img
               alt="test"
@@ -103,7 +103,7 @@ exports[`<Logos /> should render without crash 1`] = `
         >
           <span
             class=" lazy-load-image-background blur"
-            style="display: inline-block;"
+            style="color: transparent; display: inline-block;"
           >
             <img
               alt="test"
@@ -119,7 +119,7 @@ exports[`<Logos /> should render without crash 1`] = `
         >
           <span
             class=" lazy-load-image-background blur"
-            style="display: inline-block;"
+            style="color: transparent; display: inline-block;"
           >
             <img
               alt="test"
@@ -135,7 +135,7 @@ exports[`<Logos /> should render without crash 1`] = `
         >
           <span
             class=" lazy-load-image-background blur"
-            style="display: inline-block;"
+            style="color: transparent; display: inline-block;"
           >
             <img
               alt="test"
@@ -151,7 +151,7 @@ exports[`<Logos /> should render without crash 1`] = `
         >
           <span
             class=" lazy-load-image-background blur"
-            style="display: inline-block;"
+            style="color: transparent; display: inline-block;"
           >
             <img
               alt="test"

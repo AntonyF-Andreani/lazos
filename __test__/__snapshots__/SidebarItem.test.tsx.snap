@@ -3,7 +3,7 @@
 exports[`<SidebarItem /> should render 1`] = `
 <DocumentFragment>
   <a
-    class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineNone css-uxrmkj-MuiTypography-root-MuiLink-root"
+    class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineNone css-1n8yj6x-MuiTypography-root-MuiLink-root"
     data-testid="sidebar-item-url"
   >
     <li

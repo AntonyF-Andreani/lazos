@@ -174,7 +174,7 @@ exports[`<Footer /> should render without crash 1`] = `
       >
         <span
           class=" lazy-load-image-background blur"
-          style="display: inline-block;"
+          style="color: transparent; display: inline-block;"
         >
           <img
             alt="fundacion"
@@ -184,7 +184,7 @@ exports[`<Footer /> should render without crash 1`] = `
         </span>
         <span
           class=" lazy-load-image-background blur"
-          style="display: inline-block;"
+          style="color: transparent; display: inline-block;"
         >
           <img
             alt="andreani"

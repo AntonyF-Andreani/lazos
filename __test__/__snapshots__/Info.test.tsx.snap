@@ -7,6 +7,7 @@ exports[`<InfoSection /> should render without crash 1`] = `
   >
     <div
       class="containerInfoSection MuiBox-root css-0"
+      max-maxwidth="1000px"
     >
       <p
         class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
@@ -14,7 +15,7 @@ exports[`<InfoSection /> should render without crash 1`] = `
         description
       </p>
       <a
-        class="root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-disableElevation MuiButtonBase-root  css-bb99s9-MuiButtonBase-root-MuiButton-root"
+        class="MuiButtonBase-root MuiButton-root root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-disableElevation css-bb99s9-MuiButtonBase-root-MuiButton-root"
         href="url"
         tabindex="0"
       >
