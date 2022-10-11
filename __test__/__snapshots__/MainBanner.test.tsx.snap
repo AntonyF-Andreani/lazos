@@ -11,7 +11,7 @@ exports[`<MainBanner /> should render without crash 1`] = `
     >
       <span
         class=" lazy-load-image-background blur"
-        style="display: inline-block;"
+        style="color: transparent; display: inline-block;"
       >
         <img
           alt="test"
@@ -31,7 +31,7 @@ exports[`<MainBanner /> should render without crash 1`] = `
         >
           <span
             class=" lazy-load-image-background blur"
-            style="display: inline-block; height: 10px; width: 37px;"
+            style="color: transparent; display: inline-block; height: 10px; width: 37px;"
           >
             <img
               alt="test"
@@ -48,7 +48,7 @@ exports[`<MainBanner /> should render without crash 1`] = `
           </h3>
           <span
             class=" lazy-load-image-background blur"
-            style="display: inline-block; height: 10px; width: 37px;"
+            style="color: transparent; display: inline-block; height: 10px; width: 37px;"
           >
             <img
               alt="test"
@@ -74,7 +74,7 @@ exports[`<MainBanner /> should render without crash 1`] = `
         class="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
       >
         <a
-          class="root button MuiButton-root contained MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-disableElevation MuiButtonBase-root  css-zddlty-MuiButtonBase-root-MuiButton-root"
+          class="MuiButtonBase-root MuiButton-root root button MuiButton-contained contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-disableElevation css-zddlty-MuiButtonBase-root-MuiButton-root"
           href="https://docs.google.com/forms/d/e/1FAIpQLSeHD6pa0cJ4AO8tgEWJsW3egaZ1VSOCPoioWW7g2Hfb2ZLr8Q/viewform"
           tabindex="0"
         >
@@ -88,7 +88,7 @@ exports[`<MainBanner /> should render without crash 1`] = `
           />
         </a>
         <a
-          class="root button MuiButton-root contained MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-disableElevation MuiButtonBase-root  css-zddlty-MuiButtonBase-root-MuiButton-root"
+          class="MuiButtonBase-root MuiButton-root root button MuiButton-contained contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-disableElevation css-zddlty-MuiButtonBase-root-MuiButton-root"
           href="https://docs.google.com/forms/d/e/1FAIpQLSdyQtOoU6odC_hyt-88Z0m1YQPAKa3KofWo3blJvp_G41bRYA/viewform"
           tabindex="0"
         >

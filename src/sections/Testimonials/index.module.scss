@@ -9,10 +9,6 @@
   flex-wrap: nowrap;
   justify-content: center;
 
-  @media (max-width: 375px) {
-    height: 140vh;
-  }
-
   @media (max-width: 640px) and (orientation: landscape) {
     height: 100%;
   }
@@ -21,7 +17,7 @@
 .container {
   background-color: rgb(247 247 247 / 0.5);
   display: flex;
-  height: 100%;
+  height: 90%;
   position: relative;
   top: 10%;
   flex-flow: row;
@@ -42,6 +38,10 @@
 .mainBanner {
   position: absolute;
   height: 100%;
+
+  & > span {
+    height: inherit;
+  }
 }
 
 .slide {
@@ -173,4 +173,11 @@
 
 .bulletActive {
   background-color: #0074ad;
+}
+
+.image {
+  height: inherit;
+  width: inherit;
+  object-fit: contain;
+  object-position: center;
 }
